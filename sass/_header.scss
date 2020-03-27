@@ -2,7 +2,7 @@
     background-color: $color-grey-dark-1;
     grid-column: full-start / col-end 6;
     background-image: linear-gradient(rgba($color-secondary, .85), rgba($color-secondary, .85)), url(../img/hero.jpeg);
-    background-size: color;
+    background-size: cover;
     background-position: center;
     padding: 8rem;
     padding-top: 4rem;
